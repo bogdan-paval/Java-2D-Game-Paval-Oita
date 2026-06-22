@@ -1,0 +1,14 @@
+ENTITATI:
+sheep_fundita,15,9,28,14
+sheep_papion,29,3,33,14
+sheep_cowboy,48,12,37,17
+sheep_michael,34,27,33,18
+sheep_fundita,10,21,29,18
+lup,41,2,0,0
+lup,55,21,0,0
+lup,18,29,0,0
+PORTI:
+23,14,2,1
+23,15,2,1
+23,16,2,1
+23,17,2,1
